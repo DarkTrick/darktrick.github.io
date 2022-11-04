@@ -34,8 +34,7 @@ This project would need quite a couple of people working on it. I don't know the
 ## Automated Testing Advanced Topics
 [Project started](https://github.com/DarkTrick/Automated-Testing-Advanced-Topics)
 
-## Git
-### Gitp: Tool to Improve Git UX
+## Git: `Gitp`: Tool to Improve Git UX
 [Project started](https://github.com/DarkTrick/gitp)
 
 **Goal**<br>
@@ -72,9 +71,8 @@ Every file explorer for Linux or Mac is like hell for every general-purpose PC u
 # Free Software World
 
 
-## GTK
 
-### Gtk3 Tutorial
+## GTK: Gtk3 Tutorial
 [**Project started**](https://github.com/DarkTrick/gtk3_examples)
 (currently in bad condition)
 
@@ -85,11 +83,11 @@ Provide up-to-date tutorials for GTK3
 1. There are almost no up-to-date tutorials for GTK3 available. There is almost no support available. The path to writing GTK3 software is covert with brick walls.
 2. A *HUGE* amount of software is written in GTK3. Maintaining or porting to GTK4 requires appropriate knowledge.
 
-### Create better file dialog
+## GTK: Create better file dialog
 Current GTK file dialog is ... improvable.
-### Create better font selection dialog
+## GTK: Create better font selection dialog
 Current GTK font selection dialog is ... unusable (always freezes)
-### Create better color selection dialog
+## GTK: Create better color selection dialog
 
 
 ## CUI Tool mapper
