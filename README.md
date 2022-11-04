@@ -23,7 +23,8 @@ Historical name. Wouldn't choose the same one again if I would.
 ## Source Code Visualizer
 [Project started](https://github.com/DarkTrick/SourceCodeVisualizer)
 
-<img href="https://raw.githubusercontent.com/DarkTrick/SourceCodeVisualizer/main/media_marketplace/quick_example.gif"/>
+![example gif](./media/sourceCodeVisualizer.gif)
+
 
 **Background** <br>
 Why is source code written in text on a one-dimensional sheet of paper? I think functions and classes should be represented as interconnected boxes to reduce the cognitive burden on programmers.
