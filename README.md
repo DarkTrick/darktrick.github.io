@@ -1,5 +1,15 @@
 <link type='text/css' href='styles.css'  rel='stylesheet'>
 
+# What is this?
+This is my desperate search of company :)
+
+  You are a programmer dreaming about how to change the world,
+  how to improve all these bad-interfaced and not working applications, but you're missing time and wo:manpower?
+
+  Well, me too. Maybe some of your ideas and my ideas align. If you're seriously interested in any of the ideas below, feel free to contact me (directly or per [issue tracker](https://github.com/DarkTrick/darktrick.github.io/issues).
+
+  [View on Github](https://github.com/DarkTrick/darktrick.github.io)
+
 **What about this stupid name?**<br>
 Historical name. Wouldn't choose the same one again if I would.
 
