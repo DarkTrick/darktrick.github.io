@@ -75,10 +75,6 @@ h1 {
   padding: 8px;
 }
 
-/*h1::before {
-  content: "▸ ";
-}*/
-
 h1 ~ p,h2 {
   margin-left: 10px;
 }
