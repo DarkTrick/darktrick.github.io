@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: DarkTrick's Dreams
-
+description:  >-
+  * TOC
+  {:toc}
 
 
