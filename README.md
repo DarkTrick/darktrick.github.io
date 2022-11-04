@@ -115,5 +115,7 @@ Because eReaders are out since 2010 and we can still not read wikipedia easily o
 - Swipe-actions on e-reader result in scrolling the webpage on screen
 -
 
+
+<img src="header.svg" width="800" height="400" alt="Click to see the source">
 <script type='text/javascript'  src='script.js'></script>
 
