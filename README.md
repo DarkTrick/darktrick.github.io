@@ -1,6 +1,4 @@
 <link type='text/css' href='styles.css'  rel='stylesheet'>
-<script type='text/javascript'  src='scripts.js'></script>
-
 
 **What about this stupid name?**<br>
 Historical name. Wouldn't choose the same one again if I would.
@@ -117,6 +115,5 @@ Because eReaders are out since 2010 and we can still not read wikipedia easily o
 - Swipe-actions on e-reader result in scrolling the webpage on screen
 -
 
+<script type='text/javascript'  src='script.js'></script>
 
-</body>
-</html>
