@@ -1,5 +1,8 @@
 <link type='text/css' href='styles.css'  rel='stylesheet'>
 
+* TOC
+{:toc}
+
 # What is this?
 This is my desperate search of company :)
 
@@ -13,8 +16,7 @@ This is my desperate search of company :)
 **What about this stupid name?**<br>
 Historical name. Wouldn't choose the same one again if I would.
 
-* TOC
-{:toc}
+
 
 # Bigger projects
 
