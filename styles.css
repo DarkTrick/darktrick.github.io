@@ -71,8 +71,9 @@ h1 {
 }
 
 h1 {
-  background: rgba(195, 234, 255, 0.167);
+  background: rgba(195, 234, 255, 0.20);
   padding: 8px;
+  /*border-left: 8px solid rgba(0, 0, 0, 0.297);*/
 }
 
 h1 ~ p,h2 {
@@ -81,6 +82,11 @@ h1 ~ p,h2 {
 
 h2 {
   text-decoration-line: underline;
+  background: rgba(0, 0, 0, 0.025);
+  padding: 8px;
+  border-left: 5px solid rgba(0, 0, 0, 0.297);
+  border-right: 5px solid rgba(0, 0, 0, 0.297);
+  display: inline-block;
 }
 
 h2 ~ p,h3 {
