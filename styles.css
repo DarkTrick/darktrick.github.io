@@ -1,0 +1,32 @@
+body {
+  background: white;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+  margin-top: 2em;
+}
+
+h1 {
+  background: rgba(195, 234, 255, 0.167);
+  padding: 8px;
+}
+
+h1::before {
+  content: "▸ ";
+}
+
+h1 ~ p,h2 {
+  margin-left: 10px;
+}
+
+h2 {
+  text-decoration-line: underline;
+}
+
+h2 ~ p,h3 {
+  margin-left: 30px;
+}
+h3 ~ p {
+  margin-left: 50px;
+}

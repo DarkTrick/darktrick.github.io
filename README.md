@@ -34,11 +34,11 @@ This project would need quite a couple of people working on it. I don't know the
 # Programming
 
 ## Automated Testing Advanced Topics
-Project started: https://github.com/DarkTrick/Automated-Testing-Advanced-Topics
+[Project started](https://github.com/DarkTrick/Automated-Testing-Advanced-Topics)
 
 ## Git
 ### Gitp: Tool to Improve Git UX
-[**Project started**: Gitp](https://github.com/DarkTrick/gitp)
+[Project started](https://github.com/DarkTrick/gitp)
 
 **Goal**<br>
 Provide a tool with improved UX compared to git (especially for newcomers).
