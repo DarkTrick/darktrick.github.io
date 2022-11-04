@@ -113,9 +113,7 @@ Because eReaders are out since 2010 and we can still not read wikipedia easily o
 - While running, over-Screen interface (no dedicated window).
 - Shared area is easily changable via border drag-and-drop
 - Swipe-actions on e-reader result in scrolling the webpage on screen
--
 
 
-<img src="header.svg" width="800" height="400" alt="Click to see the source">
-<script type='text/javascript'  src='script.js'></script>
+<img src="header.svg" />
 

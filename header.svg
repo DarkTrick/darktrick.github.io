@@ -99,6 +99,9 @@ h3 ~ p {
 }
 			</style>
 
+    <script type="text/javascript" src='script.js'>
+
+    </script>
 		</div>
 	</foreignObject>
 </svg>
