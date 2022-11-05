@@ -41,6 +41,7 @@ Because the free open source world needs a proper presentation software (which L
 - I think Powerpoint provides a very good UX. Workflow (clicking, moving, dragging, ...) is very, very smooth.
 - Landscape feature would be nice (like in *Prezi*), where you can move and zoom within a single slide.
 
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/IHW0W4JXrF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Currently facing problems**<br>
 This project would need quite a couple of people working on it. I don't know these people.
@@ -66,7 +67,14 @@ Example: Instead of `git push origin -d mybranch`, it should be `git branch dele
 # Application Software
 
 ## Spatial Sound for Online Meetings
+![](./media/spatialSoundMeeting.png)
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/fVDzJ-Oed3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+## RPG Skillmap for Project Management
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/qfOddbwtoOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## RPG-skill map as Professional Project organization tool
 
 ## Create free, standard MS Paint clone
 **Goal** <br>
