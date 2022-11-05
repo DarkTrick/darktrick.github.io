@@ -20,7 +20,7 @@ Historical name. Wouldn't choose the same one again if I would.
 
 # Bigger projects
 
-## Source Code Visualizer
+## Programming: Source Code Visualizer
 [Project started](https://github.com/DarkTrick/SourceCodeVisualizer)
 
 ![example gif](./media/sourceCodeVisualizer.gif)
@@ -29,7 +29,40 @@ Historical name. Wouldn't choose the same one again if I would.
 **Background** <br>
 Why is source code written in text on a one-dimensional sheet of paper? I think functions and classes should be represented as interconnected boxes to reduce the cognitive burden on programmers.
 
-## Free & Working Presentation Software
+## Language Teaching: Free, Open (Immersive) Learning Environment
+
+**Goal**<br>
+Every native speaker should be able to be a teacher. The goal is to create a fully-fledged out teaching plan with all necessary material to teach a given language to beginners and intermediates.
+
+**Constraints**<br>
+
+- All material is free to use.
+- The material is among the top 3 in web searches.
+-
+**Why?**<br>
+It's 2022 and it's still a chore to find teaching plans for languages. Mostly you need to create your own teaching plan from very expensive material/books. This is even true for
+
+This is a problem, because it slows down the ability for intercultural communication, extremely.
+
+I'm not a bible guy, but doesn't it say that god said if all people could speak the same language, they could accomplish everything? (which was the initial reason to sabotage humanity). Being biblical or not, I think this has some true insight (Even, if it may not necessarily be constrained to *language* only).
+
+
+## Language Learning: Free, Open (Immersive) Learning Environment
+
+**Goal**<br>
+Basically, create a clone of RosettaStone, that is free to use and works without flaws.
+
+**Why?**<br>
+Material-wise, RosettaStone is very, very good. Clear sounds, mostly clear pictures. But interface / UX-wise it ... sucks hoop. Biggest problems are synchronization bugs, data loading time, forced waiting times and a company that believes in *every bug is a feature*.
+
+Why not Duolingo? Because they have
+
+**Constraints**
+
+- It must be good! There a gazillions of trash products out there (paid and unpaid). Developers adding google translate voices to their audible vocab trainer and seriously believe they did something good.
+- It must be among the top 5 on google.
+
+## Application Software: Free & Working Presentation Software
 **Goal**: <br>
 Create a free, open source, *simply working* **replacement** for Libre Impress.
 
