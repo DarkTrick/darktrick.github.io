@@ -65,6 +65,8 @@ Example: Instead of `git push origin -d mybranch`, it should be `git branch dele
 .
 # Application Software
 
+## Spatial Sound for Online Meetings
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/fVDzJ-Oed3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Create free, standard MS Paint clone
 **Goal** <br>
