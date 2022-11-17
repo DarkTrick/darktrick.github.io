@@ -38,7 +38,7 @@ Every native speaker should be able to be a teacher. The goal is to create a ful
 
 - All material is free to use.
 - The material is among the top 3 in web searches.
--
+
 **Why?**<br>
 It's 2022 and it's still a chore to find teaching plans for languages. Mostly you need to create your own teaching plan from very expensive material/books. This is even true for
 
@@ -104,10 +104,8 @@ Example: Instead of `git push origin -d mybranch`, it should be `git branch dele
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/fVDzJ-Oed3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-## RPG Skillmap for Project Management
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/qfOddbwtoOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ## RPG-skill map as Professional Project organization tool
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/qfOddbwtoOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Create free, standard MS Paint clone
 **Goal** <br>
