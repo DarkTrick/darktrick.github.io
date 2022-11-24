@@ -95,8 +95,13 @@ Sometimes git feels like perl: Some very simple actions require a google search 
 
 Example: Instead of `git push origin -d mybranch`, it should be `git branch delete remote`.
 
-`
-.
+## mermaid inline preview for VSCode
+You define a mermaid diagram in a comment and VSCode renders it for you (like notion works)
+
+## inline image preview in VSCode 
+You specify an image in your code comment and VSCode renders it for you
+
+
 # Application Software
 
 ## Spatial Sound for Online Meetings
